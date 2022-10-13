@@ -1,3 +1,5 @@
+![Followers](https://img.shields.io/github/followers/reneenoble?label=Followers&style=flat-square) ![Profile views](https://gpvc.arturio.dev/reneenoble)
+
 ![banner that says Renee Noble - Tech + Education + Community. Building with data & web tech, to up-skill everyone and increase representation!](assets/renee-banner.gif)
 
 <div align="center">
@@ -76,5 +78,3 @@ Creating tech communities that focus on increasing representation is my true pas
 [![Code To Cloud](https://github-readme-stats.vercel.app/api/pin/?username=reneenoble&repo=code-to-cloud&theme=react&border_color=61dafb&border_radius=10)](https://github.com/reneenbole/code-to-cloud)
 
 [![What in the World-le](https://github-readme-stats.vercel.app/api/pin/?username=reneenoble&repo=what-in-the-worldle&theme=react&border_color=61dafb&border_radius=10)](https://github.com/reneenbole/what-in-the-worldle)
-
-[![Twitter Badge](https://img.shields.io/twitter/follow/noble_renee?style=social)](https://twitter.com/noble_renee)
